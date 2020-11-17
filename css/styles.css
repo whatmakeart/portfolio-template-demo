@@ -272,7 +272,7 @@ video {
 .w-2,
 .w-3,
 .w-4,
-.w.5,
+.w-5,
 .w-6 {
   grid-column: span 1;
 }
@@ -280,7 +280,7 @@ video {
 .h-2,
 .h-3,
 .h-4,
-.h.5,
+.h-5,
 .h-6 {
   grid-row: span 1;
 }
