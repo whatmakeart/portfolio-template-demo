@@ -7,6 +7,6 @@
 
 [Configuring Custom Domain](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 
-## Complete Tutorial Walkthrough
+## Video Tutorial Walkthrough
 
 [![Website Portfolio Tutorial](https://img.youtube.com/vi/fqVYMRMsqLs/0.jpg)](https://www.youtube.com/watch?v=fqVYMRMsqLs "Website Portfolio Tutorial")
